@@ -1,0 +1,29 @@
+THEME//
+we are dividing tasks.
+
+include selector.h 
+but inside selector.h there are no references about other files.
+So we put all the references in the selector.c
+
+Objective: make clean as possible about the selector.h
+
+Hello -> ( selector.h->selector.c )
+inside selector.c
+
+Inside .c we type include <.h> makes references
+Is like .c calls .h, where .h is
+
+
+
+
+
+Makefile structure:
+
+target(objective): dependencies (recipes) rules (step by step)
+\t
+
+#commentaries
+
+.o : file type object
+arquivo intermediario
+
