@@ -1,0 +1,10 @@
+\select@language {brazilian}
+\contentsline {section}{\numberline {1}Estrutura\IeC {\c c}\IeC {\~a}o do Programa}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Inserindo n a um vetor}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Circular Doubly Linked-List}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Quando comparamos?}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}O que \IeC {\'e} $2^{min}$?}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Comparando $2^{pot}$ com $2^{min}$}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Maior valor testado}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}13,7 minutos}{5}{subsection.3.1}
+\contentsline {section}{\numberline {4}Bibliografia}{6}{section.4}
